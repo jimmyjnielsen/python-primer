@@ -1,3 +1,3 @@
 # python-primer
 
-https://mybinder.org/v2/gh/jimmyjnielsen/python-primer/58639eebda6c7ff383056cd332f45df893efb8ef
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jimmyjnielsen/python-primer/main?filepath=python_basics.ipynb)
